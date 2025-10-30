@@ -14,23 +14,22 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-###
+
 
 <p align="left">My name is  Muskan and I'm a Btech student  from Jamshedpur.</p>
 
-###
+
 
 <h2 align="left">About me</h2>
 
-###
+
 
 <p align="left">✨ Creating bugs since this year<br>📚 I'm currently learning Python and Machine Learning.<br>🎯 Goals: to be a Pilot<br>🎲 Fun fact:I am pursuing BTech</p>
 
-###
 
 <h2 align="left">I code with:</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -56,7 +55,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-###
+## 🖥 &nbsp;Past work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+
+&nbsp;
 
 <!--
 **zephyrmuskan/zephyrmuskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
