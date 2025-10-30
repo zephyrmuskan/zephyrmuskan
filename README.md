@@ -14,7 +14,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-
+ <a href="https://egirl.ing/" >
+   <img src="https://lanyard.kyrie25.dev/api/202740603790819328?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true" />
+  </a>
 ###
 
 <p align="left">My name is  Muskan and I'm a Btech student  from Jamshedpur.</p>
