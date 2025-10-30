@@ -57,11 +57,13 @@
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=Queue&bg_color=0d1116&title_color=#E7DDFF&text_color=#CEBDF9&icon_color=007ec6)](https://github.com/zephyrmuskan/queue.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=Queue&bg_color=0d1116&title_color=E7DDFF&text_color=CEBDF9&icon_color=007ec6)](https://github.com/zephyrmuskan/queue.git)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=solar&bg_color=0d1116&title_color=#E7DDFF&text_color=#CEBDF9&icon_color=007ec6)](https://github.com/zephyrmuskan/solar.git)
-&nbsp
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=solar&bg_color=0d1116&title_color=E7DDFF&text_color=CEBDF9&icon_color=007ec6)](https://github.com/zephyrmuskan/solar.git)
+&nbsp;
+## 𝗦𝘁𝗮𝘁𝘀
 
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=zephyrmuskan&show_icons=true&theme=dracula)
 <!--
 **zephyrmuskan/zephyrmuskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
