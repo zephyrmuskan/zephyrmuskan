@@ -57,9 +57,10 @@
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=Queue&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)]() &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=Solar&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)]()
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=Queue&bg_color=0d1116&title_color=#E7DDFF&text_color=#CEBDF9&icon_color=007ec6)](https://github.com/zephyrmuskan/queue.git)
 &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=solar&bg_color=0d1116&title_color=#E7DDFF&text_color=#CEBDF9&icon_color=007ec6)](https://github.com/zephyrmuskan/solar.git)
+&nbsp
 
 <!--
 **zephyrmuskan/zephyrmuskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
