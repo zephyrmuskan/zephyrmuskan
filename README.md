@@ -1,6 +1,19 @@
 <br clear="both">
 
 <h1 align="center">Hey it's Zephyr!!</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muskan-gupta25/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="muskangupta250604@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 ###
 
