@@ -1,6 +1,7 @@
 <br clear="both">
 
 <h1 align="center">Hey it's Zephyr!!</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/muskan-gupta25/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -57,13 +58,18 @@
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=Queue&bg_color=0d1116&title_color=E7DDFF&text_color=CEBDF9&icon_color=007ec6)](https://github.com/zephyrmuskan/queue.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=Queue&bg_color=0d1116&title_color=E7DDFF&text_color=CEBDF9&icon_color=7F7F80)](https://github.com/zephyrmuskan/queue.git)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=solar&bg_color=0d1116&title_color=E7DDFF&text_color=CEBDF9&icon_color=007ec6)](https://github.com/zephyrmuskan/solar.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrmuskan&repo=solar&bg_color=0d1116&title_color=E7DDFF&text_color=CEBDF9&icon_color=7F7F80)](https://github.com/zephyrmuskan/solar.git)
 &nbsp;
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=zephyrmuskan&show_icons=true&theme=dracula)
+<div align="center">
+
+![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zephyrmuskan&show_icons=true&theme=dracula&title_color=E7DDFF&text_color=E7DDFF&icon_color=E7DDFF)
+
+</div>
+
 <!--
 **zephyrmuskan/zephyrmuskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
